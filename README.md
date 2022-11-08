@@ -1,3 +1,3 @@
 # Ping-Pong-Game
 
-Ok My First Project :D
+Here's my first game project :D
