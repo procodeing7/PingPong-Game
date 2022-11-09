@@ -1,4 +1,4 @@
-# Create Game on "turtle" Libre
+# Create Game on "turtle" Library
 import turtle
 
 # background wind
